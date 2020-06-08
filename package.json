@@ -18,8 +18,8 @@
     "test": "cake test"
   },
   "dependencies": {
-    "coffee-script": "~1.6.3",
-    "fibers": "^3.0.0",
+    "coffee-script": "~1.12.7",
+    "fibers": "^5.0.0",
     "lodash": "~4.17.15"
   },
   "devDependencies": {
